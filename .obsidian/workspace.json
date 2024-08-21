@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "dd42f4c0059e4a18",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f0fe51cb6594d5b",
+        "type": "tabs",
+        "dimension": 63.013698630136986,
+        "children": [
+          {
+            "id": "93d386dfe37ab988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b78a75fab7f68a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos_bandit/Bandit Level 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e16a565b61d9df7b",
+        "type": "tabs",
+        "dimension": 36.986301369863014,
+        "children": [
+          {
+            "id": "70645ecaa318651c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c3003ce5d6a56e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e80f95c383f5a39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfbb1e39cef6360d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1912688f1d3cd2d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0637a4a640df8d2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96e5e840e0ab1fab",
+    "type": "split",
+    "children": [
+      {
+        "id": "30df6a2e357ffd5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef23c73cc2c9b7d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "retos_bandit/Bandit Level 0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51db70e5bfc52d06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "retos_bandit/Bandit Level 0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff1a88e6cf298c4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f649949ce3cbd460",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "retos_bandit/Bandit Level 0.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "bfbb1e39cef6360d",
+  "lastOpenFiles": [
+    "retos_bandit/plantilla.md",
+    "retos_bandit/Bandit Level 0.md",
+    "README.md",
+    "retos_bandit",
+    "Bienvenido.md"
+  ]
+}
