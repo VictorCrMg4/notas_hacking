@@ -1,4 +1,5 @@
 {
-  "theme": "moonstone",
-  "accentColor": "#4aa12b"
+  "theme": "obsidian",
+  "accentColor": "#4aa12b",
+  "cssTheme": "Things"
 }
