@@ -14,9 +14,8 @@ bandit11@bandit:~$ cat data.txt | tr [a-zA-Z] [n-za-mN-ZA-M]
 The password is 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 bandit11@bandit:~$
 ```
-### Forma 2
-CyberChef
-![[Pasted image 20240828191635.png]]
+
+
 ## Notas Adicionales
 rot13 - rota los caracteres  13 posiciones en el alfabeto
 ## Referencias
