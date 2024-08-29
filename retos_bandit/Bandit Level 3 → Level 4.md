@@ -28,7 +28,7 @@ bandit3@bandit:~/inhere$ cat ...Hiding-From-You
 bandit3@bandit:~/inhere$
 ```
 ## Notas Adicionales
-ls	-a lista de los archivos de la carpeta actual en formato largo y muesta los archivos ocultos
+ls	-a lista de los archivos de la carpeta actual en formato largo y muestra los archivos ocultos
 cd/ - me lleva al directorio raíz
 cat - muestra el contenido de varios archivos en la salida estándar
 file - se utiliza para determinar el tipo de archivo mediante su contenido
