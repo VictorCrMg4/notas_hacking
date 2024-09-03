@@ -151,8 +151,9 @@ kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 closed
 bandit15@bandit:~$
 ```
+
 ## Notas Adicionales
-- openssl - se utiliza para gestionar claves privadasy convertir certificados a diferentes formatos
+- openssl - cliente ssl  se utiliza para gestionar claves privadasy convertir certificados a diferentes formatos
 - s_client conecta un cliente ssl a un servidor para verificar la conexion segura y obtener informacion sobre el certificado
 ## Referencias
 - [Secure Socket Layer/Transport Layer Security on Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)
