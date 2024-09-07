@@ -5,7 +5,7 @@
 ```
 ```
 ## Solución
-```
+```bash
 ```
 ## Notas Adicionales
 
