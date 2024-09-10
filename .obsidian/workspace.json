@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos_bandit/Bandit Level 31 → Level 32.md",
+                "file": "picoCTF/01-2Warm.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos_bandit/Bandit Level 31 → Level 32.md",
+                "file": "picoCTF/01-2Warm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos_bandit/Bandit Level 31 → Level 32.md",
+                "file": "picoCTF/01-2Warm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos_bandit/Bandit Level 31 → Level 32.md"
+                "file": "picoCTF/01-2Warm.md"
               }
             }
           }
@@ -161,16 +161,24 @@
   },
   "active": "b78a75fab7f68a3c",
   "lastOpenFiles": [
+    "Actividad8/ConfiguracionEntornoKaliLinux.docx",
+    "Actividad8",
+    "Nueva carpeta",
+    "picoCTF/03-strings it.md",
+    "picoCTF/plantilla 1.md",
+    "picoCTF/02-First Grep.md",
+    "picoCTF/01-2Warm.md",
+    "retos_bandit/plantilla.md",
+    "retos_bandit/Bandit Level 31 → Level 32.md",
+    "picoCTF",
     "retos_bandit/Bandit Level 21 → Level 22.md",
     "retos_bandit/Bandit Level 30 → Level 31.md",
     "retos_bandit/Bandit Level 29 → Level 30.md",
-    "retos_bandit/Bandit Level 31 → Level 32.md",
     "retos_bandit/Bandit Level 32 → Level 33.md",
     "retos_bandit/Bandit Level 33 → Level 34.md",
     "retos_bandit/Bandit Level 28 → Level 29.md",
     "retos_bandit/Bandit Level 26 → Level 27.md",
     "retos_bandit/Bandit Level 27 → Level 28.md",
-    "retos_bandit/plantilla.md",
     "retos_bandit/Bandit Level 25 → Level 26.md",
     "retos_bandit/Bandit Level 22 → Level 23.md",
     "retos_bandit/Bandit Level 23 → Level 24.md",
@@ -182,14 +190,8 @@
     "retos_bandit/Bandit Level 18 → Level 19.md",
     "retos_bandit/Bandit Level 17 → Level 18.md",
     "retos_bandit/Bandit Level 16 → Level 17.md",
-    "retos_bandit/Bandit Level 15 → Level 16.md",
-    "retos_bandit/Bandit Level 6 → Level 7.md",
-    "Sem título.md",
-    "Bienvenido.md",
-    "retos_bandit/Bandit Level 13 → Level 14.md",
     "Pasted image 20240828191635.png",
     "Pasted image 20240828105006.png",
-    "Sem título",
     "retos_bandit"
   ]
 }
