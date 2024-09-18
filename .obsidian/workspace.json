@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos_bandit/Bandit Level 5 → Level 6.md",
+                "file": "picoCTF/Web pt1/where are the robots.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos_bandit/Bandit Level 5 → Level 6.md",
+                "file": "picoCTF/Web pt1/where are the robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos_bandit/Bandit Level 5 → Level 6.md",
+                "file": "picoCTF/Web pt1/where are the robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos_bandit/Bandit Level 5 → Level 6.md"
+                "file": "picoCTF/Web pt1/where are the robots.md"
               }
             }
           }
@@ -148,6 +148,26 @@
   },
   "active": "90d0d7ebbeb246b4",
   "lastOpenFiles": [
+    "picoCTF/Web pt1/picobrowser.md",
+    "picoCTF/Web pt1/logon.md",
+    "picoCTF/Web pt1/Insp3ct0r.md",
+    "picoCTF/Web pt1/dont-use-client-side.md",
+    "picoCTF/Web pt1/Client-side-again.md",
+    "picoCTF/aaa.md",
+    "picoCTF/Web pt1/where are the robots.md",
+    "picoCTF/Web pt1",
+    "picoCTF/plantilla 1.md",
+    "picoCTF/Primer Parcial/26-Commitment Issues.md",
+    "picoCTF/Primer Parcial/35-Permissions.md",
+    "picoCTF/Primer Parcial/34-chrono.md",
+    "picoCTF/Primer Parcial/33-Based.md",
+    "picoCTF/Primer Parcial/32-ASCII Numbers.md",
+    "picoCTF/Primer Parcial/38-Serpentine.md",
+    "picoCTF/Primer Parcial/39-Special.md",
+    "picoCTF/Primer Parcial/40-useless.md",
+    "picoCTF/Primer Parcial/24-Blame Game.md",
+    "retos_bandit/Bandit Level 33 → Level 34.md",
+    "retos_bandit/Bandit Level 5 → Level 6.md",
     "retos_bandit/Bandit Level 4 → Level 5.md",
     "retos_bandit/Bandit Level 3 → Level 4.md",
     "retos_bandit/Bandit Level 2 → Level 3.md",
@@ -155,25 +175,6 @@
     "retos_bandit/Bandit Level 0 → Level 1.md",
     "retos_bandit/Bandit Level 0.md",
     "picoCTF/39-Special.md",
-    "picoCTF/Primer Parcial/plantilla 1.md",
-    "picoCTF/Primer Parcial/40-useless.md",
-    "picoCTF/Primer Parcial/39-Special.md",
-    "picoCTF/Primer Parcial/38-Serpentine.md",
-    "picoCTF/Primer Parcial/37-PW Crack 3.md",
-    "picoCTF/Primer Parcial/36-plumbing.md",
-    "picoCTF/Primer Parcial/35-Permissions.md",
-    "picoCTF/Primer Parcial/34-chrono.md",
-    "picoCTF/Primer Parcial/33-Based.md",
-    "picoCTF/Primer Parcial/32-ASCII Numbers.md",
-    "picoCTF/Primer Parcial/31-Lets Warm Up.md",
-    "picoCTF/Primer Parcial/30-Time Machine.md",
-    "picoCTF/Primer Parcial/29-Super SSH.md",
-    "picoCTF/Primer Parcial/28-repetitions.md",
-    "picoCTF/Primer Parcial/27-First Find.md",
-    "picoCTF/Primer Parcial/26-Commitment Issues.md",
-    "picoCTF/Primer Parcial/25-Collaborative Development.md",
-    "picoCTF/Primer Parcial/24-Blame Game.md",
-    "picoCTF/Primer Parcial/23-binhexa.md",
     "picoCTF/Primer Parcial",
     "Actividad8/ConfiguracionEntornoKaliLinux.pdf",
     "Actividad8/~$nfiguracionEntornoKaliLinux.docx",
