@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web pt1/where are the robots.md",
+                "file": "picoCTF/Web pt2/Irish name repo 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "96e5e840e0ab1fab",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Web pt1/where are the robots.md",
+                "file": "picoCTF/Web pt2/Irish name repo 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Web pt1/where are the robots.md",
+                "file": "picoCTF/Web pt2/Irish name repo 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Web pt1/where are the robots.md"
+                "file": "picoCTF/Web pt2/Irish name repo 3.md"
               }
             }
           }
@@ -148,15 +149,20 @@
   },
   "active": "90d0d7ebbeb246b4",
   "lastOpenFiles": [
-    "picoCTF/Web pt1/picobrowser.md",
+    "picoCTF/Web pt2/Irish-Name-Repo 2.md",
+    "picoCTF/Web pt2/Irish-Name-Repo 1.md",
+    "picoCTF/Web pt2/JaWT Scratchpad.md",
+    "picoCTF/Web pt2/Irish name repo 3.md",
+    "picoCTF/plantilla 1.md",
     "picoCTF/Web pt1/logon.md",
+    "picoCTF/Web pt2",
     "picoCTF/Web pt1/Insp3ct0r.md",
     "picoCTF/Web pt1/dont-use-client-side.md",
     "picoCTF/Web pt1/Client-side-again.md",
-    "picoCTF/aaa.md",
     "picoCTF/Web pt1/where are the robots.md",
+    "picoCTF/Web pt1/picobrowser.md",
+    "picoCTF/aaa.md",
     "picoCTF/Web pt1",
-    "picoCTF/plantilla 1.md",
     "picoCTF/Primer Parcial/26-Commitment Issues.md",
     "picoCTF/Primer Parcial/35-Permissions.md",
     "picoCTF/Primer Parcial/34-chrono.md",
@@ -171,10 +177,6 @@
     "retos_bandit/Bandit Level 4 → Level 5.md",
     "retos_bandit/Bandit Level 3 → Level 4.md",
     "retos_bandit/Bandit Level 2 → Level 3.md",
-    "retos_bandit/Bandit Level 1 → Level 2.md",
-    "retos_bandit/Bandit Level 0 → Level 1.md",
-    "retos_bandit/Bandit Level 0.md",
-    "picoCTF/39-Special.md",
     "picoCTF/Primer Parcial",
     "Actividad8/ConfiguracionEntornoKaliLinux.pdf",
     "Actividad8/~$nfiguracionEntornoKaliLinux.docx",
