@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web pt2/Irish name repo 3.md",
+                "file": "picoCTF/Web pt3/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "96e5e840e0ab1fab",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Web pt2/Irish name repo 3.md",
+                "file": "picoCTF/Web pt3/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Web pt2/Irish name repo 3.md",
+                "file": "picoCTF/Web pt3/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Web pt2/Irish name repo 3.md"
+                "file": "picoCTF/Web pt3/Scavenger Hunt.md"
               }
             }
           }
@@ -149,11 +148,20 @@
   },
   "active": "90d0d7ebbeb246b4",
   "lastOpenFiles": [
+    "picoCTF/Web pt3/GET aHEAD.md",
+    "picoCTF/Web pt3/Cookies.md",
+    "picoCTF/Web pt3/Scavenger Hunt.md",
+    "Pasted image 20240925212734.png",
+    "Pasted image 20240925212520.png",
+    "Pasted image 20240925211509.png",
+    "Pasted image 20240925210140.png",
+    "picoCTF/plantilla 1.md",
+    "picoCTF/Web pt2/Irish name repo 3.md",
+    "picoCTF/Web pt3",
+    "picoCTF/Web pt2/Sem título",
     "picoCTF/Web pt2/Irish-Name-Repo 2.md",
     "picoCTF/Web pt2/Irish-Name-Repo 1.md",
     "picoCTF/Web pt2/JaWT Scratchpad.md",
-    "picoCTF/Web pt2/Irish name repo 3.md",
-    "picoCTF/plantilla 1.md",
     "picoCTF/Web pt1/logon.md",
     "picoCTF/Web pt2",
     "picoCTF/Web pt1/Insp3ct0r.md",
@@ -173,19 +181,13 @@
     "picoCTF/Primer Parcial/40-useless.md",
     "picoCTF/Primer Parcial/24-Blame Game.md",
     "retos_bandit/Bandit Level 33 → Level 34.md",
-    "retos_bandit/Bandit Level 5 → Level 6.md",
-    "retos_bandit/Bandit Level 4 → Level 5.md",
-    "retos_bandit/Bandit Level 3 → Level 4.md",
-    "retos_bandit/Bandit Level 2 → Level 3.md",
     "picoCTF/Primer Parcial",
     "Actividad8/ConfiguracionEntornoKaliLinux.pdf",
     "Actividad8/~$nfiguracionEntornoKaliLinux.docx",
     "Actividad8/ConfiguracionEntornoKaliLinux.docx",
     "Actividad8",
     "Nueva carpeta",
-    "picoCTF",
     "Pasted image 20240828191635.png",
-    "Pasted image 20240828105006.png",
-    "retos_bandit"
+    "Pasted image 20240828105006.png"
   ]
 }
