@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web pt3/Scavenger Hunt.md",
+                "file": "picoCTF/Web pt4/Most Cookies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Web pt3/Scavenger Hunt.md",
+                "file": "picoCTF/Web pt4/Most Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Web pt3/Scavenger Hunt.md",
+                "file": "picoCTF/Web pt4/Most Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Web pt3/Scavenger Hunt.md"
+                "file": "picoCTF/Web pt4/Most Cookies.md"
               }
             }
           }
@@ -148,14 +148,19 @@
   },
   "active": "90d0d7ebbeb246b4",
   "lastOpenFiles": [
+    "picoCTF/Web pt4/SOAP.md",
+    "picoCTF/Web pt4/Trickster.md",
+    "picoCTF/Web pt4/Most Cookies.md",
+    "picoCTF/Web pt4/MatchTheRegex.md",
+    "picoCTF/plantilla 1.md",
+    "picoCTF/Web pt3/Scavenger Hunt.md",
+    "picoCTF/Web pt4",
     "picoCTF/Web pt3/GET aHEAD.md",
     "picoCTF/Web pt3/Cookies.md",
-    "picoCTF/Web pt3/Scavenger Hunt.md",
     "Pasted image 20240925212734.png",
     "Pasted image 20240925212520.png",
     "Pasted image 20240925211509.png",
     "Pasted image 20240925210140.png",
-    "picoCTF/plantilla 1.md",
     "picoCTF/Web pt2/Irish name repo 3.md",
     "picoCTF/Web pt3",
     "picoCTF/Web pt2/Sem título",
@@ -178,15 +183,11 @@
     "picoCTF/Primer Parcial/32-ASCII Numbers.md",
     "picoCTF/Primer Parcial/38-Serpentine.md",
     "picoCTF/Primer Parcial/39-Special.md",
-    "picoCTF/Primer Parcial/40-useless.md",
-    "picoCTF/Primer Parcial/24-Blame Game.md",
-    "retos_bandit/Bandit Level 33 → Level 34.md",
     "picoCTF/Primer Parcial",
     "Actividad8/ConfiguracionEntornoKaliLinux.pdf",
     "Actividad8/~$nfiguracionEntornoKaliLinux.docx",
     "Actividad8/ConfiguracionEntornoKaliLinux.docx",
     "Actividad8",
-    "Nueva carpeta",
     "Pasted image 20240828191635.png",
     "Pasted image 20240828105006.png"
   ]
