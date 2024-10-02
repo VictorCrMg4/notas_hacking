@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web pt4/Most Cookies.md",
+                "file": "picoCTF/Forensic pt1/What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Web pt4/Most Cookies.md",
+                "file": "picoCTF/Forensic pt1/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Web pt4/Most Cookies.md",
+                "file": "picoCTF/Forensic pt1/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Web pt4/Most Cookies.md"
+                "file": "picoCTF/Forensic pt1/What Lies Within.md"
               }
             }
           }
@@ -148,11 +148,20 @@
   },
   "active": "90d0d7ebbeb246b4",
   "lastOpenFiles": [
+    "picoCTF/Forensic pt1/So Meta.md",
+    "picoCTF/Forensic pt1/What Lies Within.md",
+    "picoCTF/Forensic pt1/shark on wire 1.md",
+    "picoCTF/Forensic pt1/Glory of the Garden.md",
+    "picoCTF/Forensic pt1/extensions.md",
+    "Pasted image 20241002111536.png",
+    "Pasted image 20241002103313.png",
+    "Pasted image 20241001205634.png",
+    "picoCTF/plantilla 1.md",
+    "picoCTF/Web pt4/Most Cookies.md",
+    "picoCTF/Forensic pt1",
     "picoCTF/Web pt4/SOAP.md",
     "picoCTF/Web pt4/Trickster.md",
-    "picoCTF/Web pt4/Most Cookies.md",
     "picoCTF/Web pt4/MatchTheRegex.md",
-    "picoCTF/plantilla 1.md",
     "picoCTF/Web pt3/Scavenger Hunt.md",
     "picoCTF/Web pt4",
     "picoCTF/Web pt3/GET aHEAD.md",
@@ -177,17 +186,10 @@
     "picoCTF/aaa.md",
     "picoCTF/Web pt1",
     "picoCTF/Primer Parcial/26-Commitment Issues.md",
-    "picoCTF/Primer Parcial/35-Permissions.md",
-    "picoCTF/Primer Parcial/34-chrono.md",
-    "picoCTF/Primer Parcial/33-Based.md",
-    "picoCTF/Primer Parcial/32-ASCII Numbers.md",
-    "picoCTF/Primer Parcial/38-Serpentine.md",
-    "picoCTF/Primer Parcial/39-Special.md",
     "picoCTF/Primer Parcial",
     "Actividad8/ConfiguracionEntornoKaliLinux.pdf",
     "Actividad8/~$nfiguracionEntornoKaliLinux.docx",
     "Actividad8/ConfiguracionEntornoKaliLinux.docx",
-    "Actividad8",
     "Pasted image 20240828191635.png",
     "Pasted image 20240828105006.png"
   ]
