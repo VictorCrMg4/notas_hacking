@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic pt1/What Lies Within.md",
+                "file": "picoCTF/Forensic pt2/shark on wire 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Forensic pt1/What Lies Within.md",
+                "file": "picoCTF/Forensic pt2/shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Forensic pt1/What Lies Within.md",
+                "file": "picoCTF/Forensic pt2/shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Forensic pt1/What Lies Within.md"
+                "file": "picoCTF/Forensic pt2/shark on wire 2.md"
               }
             }
           }
@@ -148,15 +148,25 @@
   },
   "active": "90d0d7ebbeb246b4",
   "lastOpenFiles": [
+    "picoCTF/Forensic pt2/WhitePages.md",
+    "picoCTF/Forensic pt2/shark on wire 2.md",
+    "picoCTF/Forensic pt2/m00nwalk.md",
+    "picoCTF/Forensic pt2/like1000.md",
+    "picoCTF/Forensic pt2/c0rrupt.md",
+    "Pasted image 20241007120023.png",
+    "Pasted image 20241007114154.png",
+    "Pasted image 20241007112504.png",
+    "Pasted image 20241007103132.png",
     "picoCTF/Forensic pt1/So Meta.md",
     "picoCTF/Forensic pt1/What Lies Within.md",
     "picoCTF/Forensic pt1/shark on wire 1.md",
     "picoCTF/Forensic pt1/Glory of the Garden.md",
     "picoCTF/Forensic pt1/extensions.md",
+    "picoCTF/plantilla 1.md",
+    "picoCTF/Forensic pt2",
     "Pasted image 20241002111536.png",
     "Pasted image 20241002103313.png",
     "Pasted image 20241001205634.png",
-    "picoCTF/plantilla 1.md",
     "picoCTF/Web pt4/Most Cookies.md",
     "picoCTF/Forensic pt1",
     "picoCTF/Web pt4/SOAP.md",
@@ -169,7 +179,6 @@
     "Pasted image 20240925212734.png",
     "Pasted image 20240925212520.png",
     "Pasted image 20240925211509.png",
-    "Pasted image 20240925210140.png",
     "picoCTF/Web pt2/Irish name repo 3.md",
     "picoCTF/Web pt3",
     "picoCTF/Web pt2/Sem título",
@@ -180,17 +189,9 @@
     "picoCTF/Web pt2",
     "picoCTF/Web pt1/Insp3ct0r.md",
     "picoCTF/Web pt1/dont-use-client-side.md",
-    "picoCTF/Web pt1/Client-side-again.md",
-    "picoCTF/Web pt1/where are the robots.md",
-    "picoCTF/Web pt1/picobrowser.md",
-    "picoCTF/aaa.md",
     "picoCTF/Web pt1",
-    "picoCTF/Primer Parcial/26-Commitment Issues.md",
     "picoCTF/Primer Parcial",
     "Actividad8/ConfiguracionEntornoKaliLinux.pdf",
-    "Actividad8/~$nfiguracionEntornoKaliLinux.docx",
-    "Actividad8/ConfiguracionEntornoKaliLinux.docx",
-    "Pasted image 20240828191635.png",
-    "Pasted image 20240828105006.png"
+    "Actividad8/~$nfiguracionEntornoKaliLinux.docx"
   ]
 }
