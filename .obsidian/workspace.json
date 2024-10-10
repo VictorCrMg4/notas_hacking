@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic pt2/shark on wire 2.md",
+                "file": "picoCTF/Forensic pt3/Webnet1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Forensic pt2/shark on wire 2.md",
+                "file": "picoCTF/Forensic pt3/Webnet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Forensic pt2/shark on wire 2.md",
+                "file": "picoCTF/Forensic pt3/Webnet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Forensic pt2/shark on wire 2.md"
+                "file": "picoCTF/Forensic pt3/Webnet1.md"
               }
             }
           }
@@ -148,8 +148,19 @@
   },
   "active": "90d0d7ebbeb246b4",
   "lastOpenFiles": [
-    "picoCTF/Forensic pt2/WhitePages.md",
+    "picoCTF/Forensic pt3/WebNet0.md",
+    "picoCTF/Forensic pt3/tunn3l_v1s10n.md",
+    "picoCTF/Forensic pt3/Matryoshka doll.md",
+    "picoCTF/Forensic pt3/MacroHard WeakEdge.md",
+    "picoCTF/Forensic pt3/Webnet1.md",
+    "Pasted image 20241009112208.png",
+    "Pasted image 20241009110853.png",
+    "Pasted image 20241009104357.png",
+    "Pasted image 20241009104333.png",
+    "picoCTF/plantilla 1.md",
     "picoCTF/Forensic pt2/shark on wire 2.md",
+    "picoCTF/Forensic pt3",
+    "picoCTF/Forensic pt2/WhitePages.md",
     "picoCTF/Forensic pt2/m00nwalk.md",
     "picoCTF/Forensic pt2/like1000.md",
     "picoCTF/Forensic pt2/c0rrupt.md",
@@ -162,11 +173,9 @@
     "picoCTF/Forensic pt1/shark on wire 1.md",
     "picoCTF/Forensic pt1/Glory of the Garden.md",
     "picoCTF/Forensic pt1/extensions.md",
-    "picoCTF/plantilla 1.md",
     "picoCTF/Forensic pt2",
     "Pasted image 20241002111536.png",
     "Pasted image 20241002103313.png",
-    "Pasted image 20241001205634.png",
     "picoCTF/Web pt4/Most Cookies.md",
     "picoCTF/Forensic pt1",
     "picoCTF/Web pt4/SOAP.md",
@@ -176,22 +185,13 @@
     "picoCTF/Web pt4",
     "picoCTF/Web pt3/GET aHEAD.md",
     "picoCTF/Web pt3/Cookies.md",
-    "Pasted image 20240925212734.png",
-    "Pasted image 20240925212520.png",
-    "Pasted image 20240925211509.png",
     "picoCTF/Web pt2/Irish name repo 3.md",
     "picoCTF/Web pt3",
     "picoCTF/Web pt2/Sem título",
     "picoCTF/Web pt2/Irish-Name-Repo 2.md",
-    "picoCTF/Web pt2/Irish-Name-Repo 1.md",
-    "picoCTF/Web pt2/JaWT Scratchpad.md",
-    "picoCTF/Web pt1/logon.md",
     "picoCTF/Web pt2",
-    "picoCTF/Web pt1/Insp3ct0r.md",
-    "picoCTF/Web pt1/dont-use-client-side.md",
     "picoCTF/Web pt1",
     "picoCTF/Primer Parcial",
-    "Actividad8/ConfiguracionEntornoKaliLinux.pdf",
-    "Actividad8/~$nfiguracionEntornoKaliLinux.docx"
+    "Actividad8/ConfiguracionEntornoKaliLinux.pdf"
   ]
 }
