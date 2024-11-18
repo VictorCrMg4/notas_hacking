@@ -2,7 +2,7 @@
 ## Objetivo
 Can you figure out how this program works to get the flag? Connect to the program with netcat: `$ nc saturn.picoctf.net 63671` The program's source code can be downloaded [here](https://artifacts.picoctf.net/c/523/picker-II.py).
 ## Solución
-EL mismo codigo ahora tiene un filtor que no os deja introducir win, ya que es un compilador solo hacemos lo que hace win
+EL mismo codigo ahora tiene un filtro que no nos deja introducir win, ya que es un compilador solo hacemos lo que hace win
 
 ```python
 import sys
